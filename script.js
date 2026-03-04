@@ -7,7 +7,7 @@ const ui = {
     listagem: document.getElementById('tela-listagem'),
     cadastro: document.getElementById('tela-cadastro'),
     form: document.getElementById('form-produto'),
-    tabela: document.getElementById('tabela-produtos'),
+    tabela: document.getElementById('tabela-produtos'), 
     tbody: document.getElementById('tabela-corpo'),
     emptyState: document.getElementById('estado-vazio'),
     busca: document.getElementById('busca-produto'),
